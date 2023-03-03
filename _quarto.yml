@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  resources: static
+
+# sidebar: false
+# 
+# # Hides the navbar on this page
+# navbar: false
+search: false
+website:
+  title: "Elena Chechik"
+  search: false
+  navbar:
+    left:
+      - text: "CV"
+        file: files/CV.pdf
+
+format:
+  html:
+    theme: 
+      light: simplex
+    css: styles.css
+    toc: true
+
+
