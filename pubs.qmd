@@ -22,7 +22,7 @@ about:
 
 K. Guba, A. Zheleznov, **E. Chechik**, "Bibliometric accountability in Russian science policy: the use of publication metrics for research funding decisions." *Journal of Data and Information Science*, (major revision).
 
-##### Conference proposals
+##### Conference proceedings
 
 International Conference on Science, Technology and Innovation Indicators (STI 2022). Sept. 7-9 Granada, Spain: "Dissertation Authors and Their Mentors. Can Gender Diversity in Russian STEM be Achieved?", **E. Chechik** [\[Conference proceedings\]](https://zenodo.org/record/6956906#.ZAJ8nexBw-R); [\[GitHub\]](https://github.com/hellche/stem_sti).
 
