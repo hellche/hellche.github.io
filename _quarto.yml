@@ -12,9 +12,14 @@ website:
   title: "Elena Chechik"
   search: false
   navbar:
-    left:
-      - text: "CV"
-        file: files/CV.pdf
+    right:
+      - href: index.qmd
+        text: Hello
+      - text: "Publications & Projects"
+        file: pubs.qmd
+      # - text: "CV"
+      #   file: files/CV.pdf
+
 
 format:
   html:

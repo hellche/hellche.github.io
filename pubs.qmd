@@ -1,0 +1,32 @@
+---
+title: "Elena Chechik"
+about:
+  template: trestles
+  image: files/prof_pic.jpg
+  links:
+    - icon: Google Scholar
+      text: CV
+      file: files/CV.pdf
+    - icon: github
+      text: Github
+      href: https://github.com/hellche
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/hellche
+    - icon: Email
+      text: Email
+      href: mailto:elenachechik@gmail.com
+---
+
+##### Publications
+
+in progress...
+   <!-- wp -->
+
+   <!-- conf pros -->
+
+   <!-- papers -->
+
+   <!-- presentations -->
+
+   <!-- datasets -->
