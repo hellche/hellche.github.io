@@ -22,4 +22,6 @@ about:
 
 I'm a junior researcher in science of science and education sciences with an economics and econometrics background.
 
-For the last three years, I have worked at the Center for Institutional Analysis of Science and Education, [European University of St. Petersburg](https://eusp.org/). Together with colleagues, we worked on analyzing funding policies, estimated the reputation in academia, and worked with large-scale bibliometric data. Also, I worked on projects that explored gender disparities in science, parenthood, and homophily in mentorship.
+For the last three years, I have worked at the Center for Institutional Analysis of Science and Education, [European University of St. Petersburg](https://eusp.org/). 
+
+Together with colleagues, we worked on analyzing funding policies, estimated the reputation in academia, and worked with large-scale bibliometric data. Also, I worked on projects that explored gender disparities in science, parenthood, and homophily in mentorship.
