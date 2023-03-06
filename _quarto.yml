@@ -15,7 +15,7 @@ website:
     right:
       - href: index.qmd
         text: About me
-      - text: "Publications & Projects"
+      - text: "Publications"
         file: pubs.qmd
       # - text: "CV"
       #   file: files/CV.pdf
