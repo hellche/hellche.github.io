@@ -30,7 +30,7 @@ about:
 
 ##### Journal publications in Russian
 
--   Sokolov, M., **Chechik, E**. (2022) "Academic reputations of Russian economists and their scientometric assessments." *Voprosy ekonomiki*, 11 [\[DOI\]](https://doi.org/10.32609/0042-8736-2022-11-117-135). [*Roles: Data curation; Formal Analysis.*]{style="color:grey"}
+-   Sokolov, M., **Chechik, E**. (2022) "Academic reputations of Russian economists and their scientometric assessments." *Voprosy ekonomiki*, 11 [\[DOI\]](https://doi.org/10.32609/0042-8736-2022-11-117-135). [*Roles: Conceptualization; Data curation; Formal Analysis.*]{style="color:grey"}
 
 -   **Chechik, E**. "Parenthood and Gender in Russian Academia." *Voprosy obrazovaniya*, (minor revision).
 
