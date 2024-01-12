@@ -18,7 +18,7 @@ website:
       - text: "Publications"
         file: pubs.qmd
       # - text: "CV"
-      #   file: files/CV.pdf
+      #   file: files/cv_chechik_2024_GitHub.pdf
 
 
 format:

@@ -20,7 +20,17 @@ about:
 
 ##### Journal publications
 
--   Guba, K., Zheleznov, A., **Chechik, E.** (2023) "Bibliometric accountability in Russian science policy: the use of publication metrics for research funding decisions." *Journal of Data and Information Science*, (accepted for publication on 13 April 2023). [*Roles: Data curation; Formal Analysis; Visualization; Writing -- review & editing.*]{style="color:grey"}
+-   Guba, K., Zheleznov, A., **Chechik, E.** (2023) "Evaluating grant proposals: lessons from using metrics as screening device." *Journal of Data and Information Science*. [\[link\]](https://sciendo.com/article/10.2478/jdis-2023-0010) [*Roles: Conceptualization, Data curation; Formal Analysis; Visualization; Writing -- riginal draft.*]{style="color:grey"}
+
+-   Chechik E. "Gender Disparities in Research Fields in Russia: Dissertation Authors and Their Mentors." *Scientometrics*, [major revision]
+
+
+##### Journal publications in Russian
+
+-   **Chechik, E**. (2023) "Parenthood and Gender in Russian Academia." *Voprosy obrazovaniya*. [\[DOI\]](https://doi.org/10.17323/vo-2023-16337).
+
+-   Sokolov, M., **Chechik, E**. (2022) "Academic reputations of Russian economists and their scientometric assessments." *Voprosy ekonomiki*. [\[DOI\]](https://doi.org/10.32609/0042-8736-2022-11-117-135). [*Roles: Conceptualization; Data curation; Formal Analysis.*]{style="color:grey"}
+
 
 ##### Conference proceedings
 
@@ -28,26 +38,17 @@ about:
 
 -   International Society for Scientometrics and Informetrics Conference (ISSI 2021). Jul. 12-15, Leuven, Belgium (virtual event): "Use of Scientometrics in Evaluation of Grant Proposals", K. Guba, A. Zheleznov, **E. Chechik**, A. Tsivinskaya [\[Conference proceedings\]](https://www.issi-society.org/publications/issi-conference-proceedings/proceedings-of-issi-2021/). [*Roles: Data curation; Formal Analysis.*]{style="color:grey"}
 
-##### Journal publications in Russian
-
--   Sokolov, M., **Chechik, E**. (2022) "Academic reputations of Russian economists and their scientometric assessments." *Voprosy ekonomiki*, 11 [\[DOI\]](https://doi.org/10.32609/0042-8736-2022-11-117-135). [*Roles: Conceptualization; Data curation; Formal Analysis.*]{style="color:grey"}
-
--   **Chechik, E**. "Parenthood and Gender in Russian Academia." *Voprosy obrazovaniya*, (minor revision).
 
 ##### In progress
 
--   **Chechik, E.** "Descriptive Analysis of Supported and Rejected Grant Applications in Russia, 1994-2016" [\[Link\]](https://hellche.github.io/grant_applications/).
+-   Working Paper "Uncovering Barriers for Women in Russian Grant Funding: Rejected and Supported Grant Applications." **Chechik, E.** [\[Link\]](https://github.com/hellche/grant_applications).
 
-```{=html}
 <!-- -->
-```
--   ISSI 2023 "Gender Disparities in Academic Disciplines: An Attempt to Fill in the Blind Spots of Bibliometrics." **Chechik,** **E**. Online supplementary materials [\[Link\]](https://hellche.github.io/issi2023/).
 
-```{=html}
-<!-- -->
-```
--   Paper Development Workshop, EGOS 2023 "Work-life and work-work balance in universities and research centers in Russia. What can we do to stop reinforcing gender gaps?" **Chechik,** **E.** Online supplementary materials [\[Link\]](https://hellche.github.io/egos2023/).
+-  Working Paper "Work-life and work-work balance in universities and research centers in Russia. What can we do to stop reinforcing gender gaps?" **Chechik,** **E.** [\[Link\]](https://github.com/hellche/parenthood_HEI).
 
 <!-- Presentations -->
 
 <!-- wp -->
+
+
