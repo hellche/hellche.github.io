@@ -6,7 +6,7 @@ about:
   links:
     - icon: Google Scholar
       text: CV
-      file: files/CV.pdf
+      file: files/cv_chechik_april_2026.pdf
     - icon: github
       text: Github
       href: https://github.com/hellche
@@ -20,17 +20,17 @@ about:
 
 ##### Journal publications
 
--   Guba, K., Zheleznov, A., **Chechik, E.** (2023) "Evaluating grant proposals: lessons from using metrics as screening device." *Journal of Data and Information Science*. [\[link\]](https://sciendo.com/article/10.2478/jdis-2023-0010) [*Roles: Conceptualization, Data curation; Formal Analysis; Visualization; Writing -- riginal draft.*]{style="color:grey"}
+-   Chechik E. (2024). "Gender Disparities in Research Fields in Russia: Dissertation Authors and Their Mentors." *Scientometrics*. [\[link\]](https://hellche.github.io/files/Chechik_2024_full_text_AM.pdf).
 
--   Chechik E. "Gender Disparities in Research Fields in Russia: Dissertation Authors and Their Mentors." *Scientometrics*, [major revision]
+-   Guba, K., **Chechik, E.**, Tsivinskaya, A. O., & Buravoy, N. (2024). Global Ranking of Expertise about Russia. *Problems of Post-Communism*. [\[link\]](https://doi.org/10.1080/10758216.2024.2386995). [*Roles: Conceptualization, Data curation; Formal Analysis.*]{style="color:grey"}
 
+-   Guba, K., Zheleznov, A., **Chechik, E.** (2023). "Evaluating grant proposals: lessons from using metrics as screening device." *Journal of Data and Information Science*. [\[link\]](https://sciendo.com/article/10.2478/jdis-2023-0010) [*Roles: Conceptualization, Data curation; Formal Analysis; Visualization; Writing -- original draft.*]{style="color:grey"}
 
 ##### Journal publications in Russian
 
--   **Chechik, E**. (2023) "Parenthood and Gender in Russian Academia." *Voprosy obrazovaniya*. [\[DOI\]](https://doi.org/10.17323/vo-2023-16337).
+-   **Chechik, E**. (2023). "Parenthood and Gender in Russian Academia." *Voprosy obrazovaniya*. [\[DOI\]](https://doi.org/10.17323/vo-2023-16337).
 
--   Sokolov, M., **Chechik, E**. (2022) "Academic reputations of Russian economists and their scientometric assessments." *Voprosy ekonomiki*. [\[DOI\]](https://doi.org/10.32609/0042-8736-2022-11-117-135). [*Roles: Conceptualization; Data curation; Formal Analysis.*]{style="color:grey"}
-
+-   Sokolov, M., **Chechik, E**. (2022). "Academic reputations of Russian economists and their scientometric assessments." *Voprosy ekonomiki*. [\[DOI\]](https://doi.org/10.32609/0042-8736-2022-11-117-135). [*Roles: Conceptualization; Data curation; Formal Analysis.*]{style="color:grey"}
 
 ##### Conference proceedings
 
@@ -38,17 +38,14 @@ about:
 
 -   International Society for Scientometrics and Informetrics Conference (ISSI 2021). Jul. 12-15, Leuven, Belgium (virtual event): "Use of Scientometrics in Evaluation of Grant Proposals", K. Guba, A. Zheleznov, **E. Chechik**, A. Tsivinskaya [\[Conference proceedings\]](https://www.issi-society.org/publications/issi-conference-proceedings/proceedings-of-issi-2021/). [*Roles: Data curation; Formal Analysis.*]{style="color:grey"}
 
-
 ##### In progress
 
--   Working Paper "Uncovering Barriers for Women in Russian Grant Funding: Rejected and Supported Grant Applications." **Chechik, E.** [\[Link\]](https://github.com/hellche/grant_applications).
+-   Socioeconomic Inequality in Post-Secondary Transitions: The Causal Impact of Admission Reforms in Germany (with Florian Hertel).
 
-<!-- -->
+-   Global Organization of Russian Studies: Large-Scale Scientometric Analysis of Publications and Citations, 1990-2020". Guba K., **Chechik E.**, Tsivinskaya A., & Buravoy N. (January 2024). [\[See SSRN\]](https://ssrn.com/abstract=4696769).
 
--  Working Paper "Work-life and work-work balance in universities and research centers in Russia. What can we do to stop reinforcing gender gaps?" **Chechik,** **E.** [\[Link\]](https://github.com/hellche/parenthood_HEI).
+-   Work-life and work-work balance in universities and research centers in Russia. What can we do to stop reinforcing gender gaps? **Chechik,** **E.** [\[GitHub repo\]](https://github.com/hellche/parenthood_HEI).
 
 <!-- Presentations -->
 
 <!-- wp -->
-
-
