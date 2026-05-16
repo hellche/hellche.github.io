@@ -20,9 +20,9 @@ about:
 
 ##### Journal publications
 
--   Chechik E. (2024). "Gender Disparities in Research Fields in Russia: Dissertation Authors and Their Mentors." *Scientometrics*. [\[link\]](https://hellche.github.io/files/Chechik_2024_full_text_AM.pdf).
+-   Guba, K., **Chechik, E.**, Tsivinskaya, A. O., & Buravoy, N. (2025). Global Ranking of Expertise about Russia. *Problems of Post-Communism*. [\[link\]](https://doi.org/10.1080/10758216.2024.2386995). [*Roles: Conceptualization, Data curation; Formal Analysis.*]{style="color:grey"}
 
--   Guba, K., **Chechik, E.**, Tsivinskaya, A. O., & Buravoy, N. (2024). Global Ranking of Expertise about Russia. *Problems of Post-Communism*. [\[link\]](https://doi.org/10.1080/10758216.2024.2386995). [*Roles: Conceptualization, Data curation; Formal Analysis.*]{style="color:grey"}
+-   Chechik E. (2024). "Gender Disparities in Research Fields in Russia: Dissertation Authors and Their Mentors." *Scientometrics*. [\[link\]](https://hellche.github.io/files/Chechik_2024_full_text_AM.pdf).
 
 -   Guba, K., Zheleznov, A., **Chechik, E.** (2023). "Evaluating grant proposals: lessons from using metrics as screening device." *Journal of Data and Information Science*. [\[link\]](https://sciendo.com/article/10.2478/jdis-2023-0010) [*Roles: Conceptualization, Data curation; Formal Analysis; Visualization; Writing -- original draft.*]{style="color:grey"}
 
