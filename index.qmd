@@ -6,7 +6,7 @@ about:
   links:
     - icon: Google Scholar
       text: CV
-      file: files/cv_chechik_2026_CV.pdf
+      file: files/cv_chechik_2026_May.pdf
     - icon: github
       text: Github
       href: https://github.com/hellche
